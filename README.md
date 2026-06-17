@@ -8,4 +8,5 @@ Oque e JavaScript?
 _____________________________________________________
 
 >>Como executar JavaScript?
->>
+
+Primeiro temos no proprio navegador (modernos) ex: Brave, Chorme, duckduck go e etc... Existem um console q vc pode acessar como nas config e quanto em um comando [CTRL + U]() pode usar diretamente no seu navegador em si 
